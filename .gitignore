@@ -128,6 +128,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+kaggle/
 .env
 .venv
 env/
@@ -169,3 +170,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Other files
+.DS_Store
+ieee-fraud-detection.zip
+ieee-fraud-detection
